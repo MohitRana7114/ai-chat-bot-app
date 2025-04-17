@@ -39,6 +39,6 @@ Follow these simple steps to run the project on your local machine:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ai-chatbot-app.git
+   git clone https://github.com/mohit7114/ai-chatbot-app.git
 
 
